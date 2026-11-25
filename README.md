@@ -8,3 +8,4 @@ This is my first Git and GitHub practical project.
 - Repository creation
 - Git commit
 - GitHub upload
+Git and GitHub practical completed successfully.
